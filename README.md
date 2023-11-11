@@ -1,4 +1,4 @@
-# qrscanner
+# qrscanner Issue react-native-permissions: NativeModule.RNPermissions is null. [Android]
 
 This is branch to replicate issue I am facing with react-native-permission, in android. I am facing this issue even after troubleshooting the available solutions.
 
